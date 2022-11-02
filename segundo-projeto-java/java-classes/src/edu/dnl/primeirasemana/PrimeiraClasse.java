@@ -1,3 +1,4 @@
+package edu.dnl.primeirasemana;
 public class PrimeiraClasse {
 
     public static void main (String[] args){
