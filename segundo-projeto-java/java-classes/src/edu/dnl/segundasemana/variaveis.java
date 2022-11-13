@@ -5,7 +5,6 @@ package edu.dnl.segundasemana;
 
 public class variaveis {
 
-
     //metodo publico que realiza a soma.
 
     public static int somar(int numero1,int numero2){
