@@ -1,2 +1,2 @@
 # java-básico
-Repositório para armazenar todo o conteúdo do Curso de Java.
+Repositório linguagem Java.
